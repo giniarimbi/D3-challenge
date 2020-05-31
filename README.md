@@ -15,13 +15,13 @@ These are the explanation. While creating D3, there are 3 big components to be f
 3) The dynamic of visualization (tooltip)
 
 
-![](images/steps.png)
+![](Images/steps.png)
 
 
 
 ### 3. Result (Static)
 
-![](images/graph.png)
+![](Images/graph.png)
 
 This graph visualize the correlation between healthcare level (x axis) and income level (y axis) for all US states. Every circle represent 
 the position of US states. 
@@ -33,7 +33,7 @@ While each circle contain several values, we can see the values more clearly by 
 To achieve this, an event listener function will be embededed to show the tooltip. We will determine 
 type of 'dynamic script' that will run. In this example, a `mouseover` and `mouseout` will highlight the tooltip value. 
 
-![](images/graph-explanation.png)
+![](Images/graph-explanation.png)
 
 
 * File output for html code is  `index.html` 
